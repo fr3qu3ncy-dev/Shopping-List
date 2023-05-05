@@ -1,16 +1,5 @@
 # shopping_list
 
-A basic shopping list app.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A basic shopping list app, which saves the items on a backend server running on Firebase.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/58204360/236546364-ada467f8-73a2-4b60-afa9-e1bb32232f56.png" width="300">
